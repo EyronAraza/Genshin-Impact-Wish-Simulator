@@ -1,0 +1,13 @@
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\bin\Debug\netcoreapp3.1\Genshin Wishing Simulator.exe
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\bin\Debug\netcoreapp3.1\Genshin Wishing Simulator.deps.json
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\bin\Debug\netcoreapp3.1\Genshin Wishing Simulator.runtimeconfig.json
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\bin\Debug\netcoreapp3.1\Genshin Wishing Simulator.runtimeconfig.dev.json
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\bin\Debug\netcoreapp3.1\Genshin Wishing Simulator.dll
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\bin\Debug\netcoreapp3.1\Genshin Wishing Simulator.pdb
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.csprojAssemblyReference.cache
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.AssemblyInfoInputs.cache
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.AssemblyInfo.cs
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.dll
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.pdb
+C:\Users\Eyron\source\repos\C Sharp Repos\Genshin Wishing Simulator\Genshin Wishing Simulator\obj\Debug\netcoreapp3.1\Genshin Wishing Simulator.genruntimeconfig.cache
