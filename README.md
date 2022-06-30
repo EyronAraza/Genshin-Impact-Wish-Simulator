@@ -1,2 +1,2 @@
 # Genshin-Impact-Wish-Simulator
-Genshin Impact (almost accurate) Wishing Simulator made with C# Console Application.
+An almost accurate Wishing Simulator based on the game Genshin Impact made with C# Console Application.
